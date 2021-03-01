@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="name">Name</string>
+    <string name="say_hi">Say hi</string>
+    <string name="hello">Hello,</string>
+    <string name="error_msg">Name field must be completed</string>
+    <string name="channel_name">Channel name</string>
+</resources>
